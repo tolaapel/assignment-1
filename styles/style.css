@@ -12,7 +12,7 @@
     left: 0px;
     top: 0px;
     
-    background-image: url('/images/banner/banner3.png');
+    background-image: url('../images/banner/banner3.png');
 }
 .banner-top{
     
@@ -96,5 +96,3 @@ font-size: 16px;
 line-height: 26p;
 color: #444343;
  
-}
-.point{}
