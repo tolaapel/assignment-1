@@ -1,6 +1,5 @@
 *{
-    padding: 0px;
-    margin: 0px;
+    
     
     font-style: normal;
     position: absolute;
@@ -95,4 +94,21 @@ font-weight: 400;
 font-size: 16px;
 line-height: 26p;
 color: #444343;
- 
+
+}
+/* my plan */
+.my-plan{
+    margin-top: 130px;
+
+}
+.skill-container{
+    display: flex;
+}
+.skill-title{
+    font-weight: 700;
+font-size: 30px;
+
+}
+.skill-description{
+    color: #444343;
+}
